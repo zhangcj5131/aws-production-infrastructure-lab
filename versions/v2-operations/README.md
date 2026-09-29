@@ -1,6 +1,6 @@
 # V2 - Operations and Cloud Services
 
-![Architecture](./README.assets/Architecture.png)
+![Architecture](./readme.assets/Architecture.png)
 
 # 1. Project Overview
 
