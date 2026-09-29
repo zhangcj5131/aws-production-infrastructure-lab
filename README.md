@@ -78,7 +78,7 @@ The application runs on EC2 instances managed by an Auto Scaling Group across tw
 
 ![architecure](./README.assets/architecure-0103896.png)
 
-V4 extends the architecture with database, DNS, HTTPS, security, auditing, and governance capabilities.
+V4 extends the architecture with database, DNS, HTTPS, security, auditing, as well as governance capabilities.
 
 Amazon RDS provides a Multi-AZ MySQL database in isolated private data subnets. Route 53 and ACM provide DNS and HTTPS, while AWS WAF protects the public application endpoint. Secrets Manager and KMS protect database credentials and encryption keys. CloudTrail, AWS Config, and AWS Budgets provide auditing, configuration tracking, and cost monitoring.
 
@@ -95,7 +95,7 @@ Amazon RDS provides a Multi-AZ MySQL database in isolated private data subnets. 
 - AWS Config
 - AWS Budgets
 
-[View V4 implementation details →](./versions/V4-Data-Security/README.md)
+[View V4 implementation details →](./versions/v4-data-security/README.md)
 
 ---
 
