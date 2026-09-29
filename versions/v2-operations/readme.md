@@ -1,5 +1,7 @@
 # V2 - Operations and Cloud Services
 
+![Architecture](./README.assets/Architecture.png)
+
 # 1. Project Overview
 
 V2 upgrades the V1 Single-AZ Public Web Server with AWS operational and management services.

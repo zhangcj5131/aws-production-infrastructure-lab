@@ -1,1 +1,21 @@
 .DS_Store
+
+# Terraform
+
+.terraform/
+
+*.tfstate
+
+*.tfstate.*
+
+.terraform.tfstate.lock.info
+
+crash.log
+
+crash.*.log
+
+# Terraform variable files
+
+*.tfvars
+
+*.tfvars.json

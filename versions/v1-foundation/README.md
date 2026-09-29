@@ -1,5 +1,7 @@
 # V1 - Single-AZ Public Web Server
 
+![Architecture](./README.assets/Architecture.png)
+
 ## 1. Project Overview
 
 V1 builds a basic AWS Web Server environment in a single Availability Zone.
