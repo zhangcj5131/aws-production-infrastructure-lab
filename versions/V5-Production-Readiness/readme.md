@@ -1,6 +1,6 @@
 ![architecure](./readme.assets/architecure-9517022.png)
 
-![architecture](./readme.assets/architecture.png)
+
 
 # 1. Review V4
 

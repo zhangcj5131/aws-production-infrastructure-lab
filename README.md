@@ -147,7 +147,7 @@ terraform/
 └── terraform.tfvars.example
 ```
 
-[View V3 Terraform details →](./terraform/README.md)
+[View Terraform Infrastructure as Code →](./terraform/README.md)
 
 
 
