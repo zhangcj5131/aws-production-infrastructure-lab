@@ -1,5 +1,7 @@
 # AWS Production-Ready Web Application Infrastructure
 
+![architecure](./README.assets/architecure-0103906.png)
+
 This project demonstrates the step-by-step evolution of an AWS web application infrastructure from a simple single-instance deployment to a highly available, secure, observable, and reproducible architecture.
 
 The project is divided into five versions. Each version builds on the previous one and introduces additional AWS services and operational capabilities.
